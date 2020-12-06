@@ -1,0 +1,30 @@
+/* .m-container {
+  width: 1140px;
+  margin: 30px auto;
+} */
+
+.extension {
+  width: 500px;
+  height: 350px;
+  border: 2px solid black;
+}
+
+.fact-input {
+  resize: none;
+  font-size: 14px;
+}
+
+.loading-bar {
+  width: 150px;
+}
+
+.uppercase img {
+  position: relative;
+  top: 10px;
+}
+.down-arrow {
+  font-size: 9px;
+  position: relative;
+  bottom: 2px;
+  text-decoration: none !important;
+}
